@@ -9,6 +9,7 @@ When a new process enters a system, it must declare the maximum number of instan
 # OUTPUT:
 
 Need Matrix :
+
 0 1 0 0 2
 
 0 2 1 0 0
@@ -19,8 +20,9 @@ Need Matrix :
 
 
 
-Safe sequence is :
-D A C B
+Safe sequence is : D A C B
+
+
 Change in available resource matrix :
 
 1 1 3 2 2
