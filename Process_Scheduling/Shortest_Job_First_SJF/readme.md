@@ -1,0 +1,2 @@
+## Problem:
+![](SJF-problem.PNG)
