@@ -1,2 +1,2 @@
 ## Problem
-![] (RR-problem.PNG)
+![](RR-problem.PNG)
